@@ -2,3 +2,4 @@
 - sorting lamda
 - map function and looping
 - bucket sort
+- prefix sum
