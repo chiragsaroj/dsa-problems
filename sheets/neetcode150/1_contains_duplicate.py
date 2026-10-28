@@ -2,7 +2,7 @@ from typing import List
 
 class Solution:
     """ 
-    Brute Approach 
+    Brute 
     TC - O(n^2)
     SC - O(1)
     """
@@ -20,7 +20,7 @@ class Solution:
 
 class Solution:
     """ 
-    Better Approach 
+    Better 
     TC - O(n log n)
     SC - O(n) : It depends on language you use.
     """
@@ -37,7 +37,7 @@ class Solution:
 
 class Solution:
     """ 
-    Optimized Approach 
+    Optimized 
     TC - O(n)
     SC - O(n)
     """
