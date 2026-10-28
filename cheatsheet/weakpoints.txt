@@ -1,0 +1,4 @@
+- strings and its methods
+- sorting lamda
+- map function and looping
+- bucket sort
